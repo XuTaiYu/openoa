@@ -3,7 +3,8 @@ server:
   servlet:
     context-path: /openoa
     
-spring:
+#数据库连接
+spring: 
   datasource:
     data-username: root
     password: 
